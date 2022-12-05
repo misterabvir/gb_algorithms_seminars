@@ -1,1 +1,1 @@
-# gb_algorithms
+# homework GEEKBRAINS algorithms
